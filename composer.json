@@ -1,0 +1,15 @@
+{
+    "name": "tedma4/avada",
+    "description": "WordPress login/register sidebar widget with recaptcha support",
+    "type": "wordpress-theme",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "composer/installers": "^1.0"
+    },
+    "license": "GPL-2.0+",
+    "authors": [{
+        "name": "avada",
+        "email": "avada@avada.com"
+    }]
+}
